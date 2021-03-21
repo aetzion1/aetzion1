@@ -9,4 +9,4 @@ I’m looking for help with Docker and AWS
 How to reach me: adametzion90@gmail.com
 Pronouns: He/Him
 
-[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=aetzion1&count_private=true)](https://github.com/aetzion1/github-readme-stats)
+[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=aetzion1&count_private=true&show_icons=true&theme=radical)](https://github.com/aetzion1/github-readme-stats)
